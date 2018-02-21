@@ -1,3 +1,1 @@
-# Bienvenue dans mon humble labyrinthe de code
-
-Je vois que tu as trouvé le dépôt... Mais y trouveras-tu ce que tu cherches ?
+Etonnament, cette île semble déserte... est-ce vraiment ce dont il parlait ?

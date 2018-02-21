@@ -1,9 +1,2 @@
-Alors que tu reviens sur tes pas, tu trouves une étrange inscription dans la rue:
-
-_La solution de ce puzzle est ici même, à portée de main_
-
-_Elle se compose des premiers chiffres, qui permettent sans la moindre erreur_
-
-_D'identifier ce changement, et de trouver les usurpateurs_
-
-_Qui voudraient modifier l'essence, de ce poème si malin_
+_Alors que tu te ballades au coeur de la cité, un passant à l'air louche te fait signe d'approcher. D'un ton mystérieux, il te dit:_
+- Je sais ce que tu cherches. Mais il est parfois nécessaire de faire un pas en arrière. La vérité est dans le passé."
